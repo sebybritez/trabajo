@@ -1,0 +1,20 @@
+[
+    {
+        "name": "upa",
+        "lastname": "secambia",
+        "id": "869b00f0-8bc0-4cb6-9791-753c8d7cb131",
+        "edad": "23"
+    },
+    {
+        "name": "leandro",
+        "lastname": "fernandez",
+        "id": "d6e6d340-c1cd-4fd1-91e0-36ddc512b54d",
+        "edad": "27"
+    },
+    {
+        "name": "Sebastian",
+        "lastname": "Britez",
+        "id": "16addec3-561e-46f2-b128-c58d7406b134",
+        "edad": "23"
+    }
+]
